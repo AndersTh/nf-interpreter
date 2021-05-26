@@ -412,6 +412,10 @@
           "value": "ON"
         },
         {
+          "name": "API_System.Device.Pwm:BOOL", //OFF-default-ON-to-add-this-API
+          "value": "ON"
+        },
+        {
           "name": "API_Windows.Devices.SerialCommunication:BOOL", //OFF-default-ON-to-add-this-API
           "value": "ON"
         },

@@ -589,6 +589,13 @@ else()
 endif()
 
 
+if(API_System.Device.Pwm)
+    set(HAL_USE_PWM_OPTION TRUE CACHE INTERNAL "HAL PWM for System.Device.Pwm")
+else()
+    set(HAL_USE_PWM_OPTION FALSE CACHE INTERNAL "HAL PWM for System.Device.Pwm")
+endif()
+
+
 if(API_Windows.Devices.Spi)
     set(HAL_USE_SPI_OPTION TRUE CACHE INTERNAL "HAL SPI for Windows.Devices.Spi")
 else()

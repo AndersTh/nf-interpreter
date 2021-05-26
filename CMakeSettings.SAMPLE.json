@@ -494,6 +494,11 @@
           "type": "BOOL"
         },
         {
+          "name": "API_System.Device.Pwm",
+          "value": "True",
+          "type": "BOOL"
+        },
+        {
           "name": "API_Windows.Devices.SerialCommunication",
           "value": "True",
           "type": "BOOL"
