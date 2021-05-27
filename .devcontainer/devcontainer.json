@@ -23,7 +23,7 @@
 		],
 		"cmake.generator": "Ninja",
 		"cmake.autoRestartBuild" : true,
-		"cmake.configureSettings": {7
+		"cmake.configureSettings": {
 			"CMAKE_MAKE_PROGRAM":"/usr/bin/ninja"
 		},
 		"cmake.cmakePath": "/usr/bin/cmake",
