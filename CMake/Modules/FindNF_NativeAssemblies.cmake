@@ -25,7 +25,7 @@ option(API_System.Device.Gpio                   "option for System.Device.Gpio A
 option(API_System.Device.I2c                    "option for System.Device.I2c API")
 option(API_Windows.Devices.Gpio                 "option for Windows.Devices.Gpio API")
 option(API_Windows.Devices.I2c                  "option for Windows.Devices.I2c API")
-option(API_System.Device.Pwm                    "option for Windows.Devices.Pwm API")
+option(API_System.Device.Pwm                    "option for System.Device.Pwm API")
 option(API_Windows.Devices.Pwm                  "option for Windows.Devices.Pwm API")
 option(API_Windows.Devices.SerialCommunication  "option for Windows.Devices.SerialCommunication API")
 option(API_System.IO.Ports                      "option for System.IO.Ports API")
